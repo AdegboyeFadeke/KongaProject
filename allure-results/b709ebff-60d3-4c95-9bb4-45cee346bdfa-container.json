@@ -1,0 +1,1 @@
+{"uuid":"b709ebff-60d3-4c95-9bb4-45cee346bdfa","name":"MyTestifyProject","children":["95501494-e399-4496-8ac0-6121231a5b6e"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1679617825831,"stop":1679617827066}],"start":1679617732301,"stop":1679617827069}
